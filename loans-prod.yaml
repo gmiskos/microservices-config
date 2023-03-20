@@ -1,4 +1,4 @@
-accounts:
+loans:
   msg : Welcome to the Gmiskos Bank Prod Application
   build-version: 1
   mailDetails:
