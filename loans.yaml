@@ -1,0 +1,11 @@
+accounts:
+  msg : Welcome to the Gmiskos Bank Default Application
+  build-version: 3
+  mailDetails:
+    subject: Your Loans Details from Gmiskos Default Environment
+    from: default-loans@gmiskos.com
+    port: 9000
+    hostName: default-loans@gmiskos.com
+  activeBranches[2]: London
+  activeBranches[1]: Athens
+  activeBranches[0]: Rome
