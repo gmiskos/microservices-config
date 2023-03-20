@@ -1,0 +1,11 @@
+cards:
+  msg : Welcome to the Gmiskos Bank Dev Application
+  build-version: 2
+  mailDetails:
+    subject: Your Cards Details from Gmiskos Dev Environment
+    from: dev-cards@gmiskos.com
+    port: 9020
+    hostName: dev-cards@gmiskos.com
+  activeBranches[2]: Indianapollis
+  activeBranches[1]: Berlin
+  activeBranches[0]: Chennai

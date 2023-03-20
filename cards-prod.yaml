@@ -1,0 +1,11 @@
+cards:
+  msg : Welcome to the Gmiskos Bank Prod Application
+  build-version: 1
+  mailDetails:
+    subject: Your Cards Details from Gmiskos Prod Environment
+    from: prod-cards@gmiskos.com
+    port: 9010
+    hostName: prod-cards@gmiskos.com
+  activeBranches[2]: Hyderabad
+  activeBranches[1]: New york
+  activeBranches[0]: Paris

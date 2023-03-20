@@ -1,0 +1,11 @@
+cards:
+  msg : Welcome to the Gmiskos Bank Default Application
+  build-version: 3
+  mailDetails:
+    subject: Your Cards Details from Gmiskos Default Environment
+    from: default-cards@gmiskos.com
+    port: 9000
+    hostName: default-cards@gmiskos.com
+  activeBranches[2]: London
+  activeBranches[1]: Athens
+  activeBranches[0]: Rome
